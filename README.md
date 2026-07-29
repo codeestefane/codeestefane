@@ -1,6 +1,7 @@
 
 # Hello! ⋆.ೃ࿔*:･
-### Undergraduate researcher in AutoML | Data Science | Machine Learning
+
+## Undergraduate Researcher in AutoML | Data Science | Machine Learning
 
 <!--
 **codeestefane/codeestefane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
