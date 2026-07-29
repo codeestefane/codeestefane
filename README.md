@@ -4,9 +4,11 @@
 ### I'm an undergraduate researcher in AutoML and I'm studying Data Science and Machine Learning!
 
 My main projects are:
-<br>⤑ A website for sharing data on dengue fever in Apucarana. You can access the site at this <a href="https://dengue.apucarana.pr.gov.br" title="Dengue website">link</a>!
-<br>⤑ A repository of supervised machine learning algorithms implemented from scratch!
-<br>⤑ A replica of the Snake game built with JavaScript!
+<ul>
+<li> A website for sharing data on dengue fever in Apucarana. You can access the site at this <a href="https://dengue.apucarana.pr.gov.br" title="Dengue website">link</a>!</li>
+<li> A repository of supervised machine learning algorithms implemented from scratch!</li>
+<li> A replica of the Snake game built with JavaScript!</li>
+</ul>
 <!--
 **codeestefane/codeestefane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
