@@ -6,7 +6,7 @@
 My main projects are:
 <ul>
 <li> A website for sharing data on dengue fever in Apucarana. You can access the site at this <a href="https://dengue.apucarana.pr.gov.br" title="Dengue website">link</a>!</li>
-<li> A repository of supervised machine learning algorithms implemented from scratch!</li>
+<li> A repository of supervised Machine Learning algorithms implemented from scratch!</li>
 <li> A replica of the Snake game built with JavaScript and OOP!</li>
 </ul>
 
