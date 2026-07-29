@@ -1,7 +1,7 @@
 
 ## Hello, I'm Estefane! ⋆.ೃ࿔*:･
 
-### I'm an undergraduate researcher in AutoML and I'm studying Data Science and Machine Learning!
+### I'm an undergraduate researcher in AutoML and I'm studying Data Science and Machine Learning! 📊
 
 My main projects are:
 <ul>
