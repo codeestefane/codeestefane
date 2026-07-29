@@ -10,7 +10,7 @@ My main projects are:
 <li> A replica of the Snake game built with JavaScript and OOP!</li>
 </ul>
 
-I'm always learning and trying to do my best! I also encourage women in the technology field at <a href="https://codificadoras.replit.app">Codificadoras<\a>! 💜
+I'm always learning and trying to do my best! I also encourage women in the technology field at <a href="https://codificadoras.replit.app">Codificadoras</a>! 💜
 
 You can contact me via the following social media channels:
 <p>
