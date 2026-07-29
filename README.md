@@ -10,11 +10,15 @@ My main projects are:
 <li> A replica of the Snake game built with JavaScript and OOP!</li>
 </ul>
 
+I'm always learning and trying to do my best! 
+
 You can contact me via the following social media channels:
+<p>
   <a href="mailto:codeestefane@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=codeestefane@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/estefane-de-lima/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estefane-de-lima/" alt="LinkedIn"/></a>
+</p>
 
 <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
