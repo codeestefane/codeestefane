@@ -10,8 +10,8 @@ My main projects are:
 <li> A replica of the Snake game built with JavaScript and OOP!</li>
 </ul>
 
-The programming languages ​​I use most::
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <p align="left">
   <a href="mailto:codeestefane@gmail.com" title="Gmail">
