@@ -1,6 +1,6 @@
 
-# Hello! =)
-### I'm an undergraduate researcher in AutoML. I'm interested in Data Science and Machine Learning! ⋆.ೃ࿔*:･
+# Hello! ⋆.ೃ࿔*:･
+### Undergraduate researcher in AutoML | Data Science | Machine Learning
 
 <!--
 **codeestefane/codeestefane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
