@@ -9,20 +9,6 @@ My main projects are:
 <li> A repository of supervised machine learning algorithms implemented from scratch!</li>
 <li> A replica of the Snake game built with JavaScript!</li>
 </ul>
-<!--
-**codeestefane/codeestefane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="left">
   <a href="mailto:codeestefane@gmail.com" title="Gmail">
@@ -30,5 +16,3 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/estefane-de-lima/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
-
-
