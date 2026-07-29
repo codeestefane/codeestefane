@@ -1,7 +1,7 @@
 
 ## Hello, I'm Estefane! ⋆.ೃ࿔*:･
 
-### Undergraduate Researcher in AutoML | Data Science | Machine Learning
+### I'm an undergraduate researcher in AutoML and I'm studying Data Science and Machine Learning!
 
 <!--
 **codeestefane/codeestefane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
